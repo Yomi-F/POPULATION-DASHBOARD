@@ -1,6 +1,6 @@
 # Population Analysis Dashboard
 
-![]()
+![](https://github.com/Yomi-F/POPULATION-DASHBOARD/blob/main/POPULATION%20DASHBOARD.png)
 
 ## Overview
 
@@ -20,7 +20,7 @@ This section displays the global population of approximately 7.97 billion people
 ### Top 5 Countries by Population Density
 
 
-![]()
+![](https://github.com/Yomi-F/POPULATION-DASHBOARD/blob/main/TOP%205%20COUNTRIES%20BY%20POPULATION%20DENSITY.png)
 
 A bar chart lists the top 5 countries with the highest population density:
 - **Macau**
@@ -33,7 +33,7 @@ These countries have the highest number of people per square kilometer, illustra
 
 ### Top 5 Countries by Population
 
-![]()
+![](https://github.com/Yomi-F/POPULATION-DASHBOARD/blob/main/TOP%205%20COUNTRIES%20BY%20POPULATION.png)
 
 A heatmap shows the countries with the largest populations:
 - **China**: 1.43 billion
@@ -46,7 +46,7 @@ This chart highlights the most populous nations, emphasizing the demographic wei
 
 ### Top 10 Countries by Area
 
-![]()
+![](https://github.com/Yomi-F/POPULATION-DASHBOARD/blob/main/TOP%2010%20COUNTRIES%20BY%20AREA.png)
 
 A table lists the top 10 largest countries by land area:
 - **Russia**
@@ -64,7 +64,7 @@ This chart emphasizes the vast geographic differences between countries.
 
 ### Population by Continent
 
-![]()
+![](https://github.com/Yomi-F/POPULATION-DASHBOARD/blob/main/POPULATION%20BY%20CONTINENT.png)
 
 A treemap visualizes the population distribution across continents:
 - **Asia**: 4.6 billion
@@ -77,7 +77,7 @@ This visualization underscores Asia's dominant share of the global population.
 
 ### Africa Population Map
 
-![]()
+![](https://github.com/Yomi-F/POPULATION-DASHBOARD/blob/main/AFRICA'S%20POPULATION%20.png)
 
 An interactive map of Africa shows the population of each country, providing a detailed view of the continent's demographic landscape. Notable populations include:
 - **Nigeria**: 218 million
