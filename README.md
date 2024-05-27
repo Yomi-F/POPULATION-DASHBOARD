@@ -20,7 +20,8 @@ This section displays the global population of approximately 7.97 billion people
 ### Top 5 Countries by Population Density
 
 
-![](https://github.com/Yomi-F/POPULATION-DASHBOARD/blob/main/TOP%205%20COUNTRIES%20BY%20POPULATION%20DENSITY.png)
+![](
+https://github.com/Yomi-F/POPULATION-DASHBOARD/blob/main/POPULATION%20DASHBOARD.png)
 
 A bar chart lists the top 5 countries with the highest population density:
 - **Macau**
